@@ -1,0 +1,5 @@
+connect to vagrant: vagrant ssh
+Run `vagrant up`
+to start the virtual machine.
+
+go to the environment: source ~/env/bin/activate
